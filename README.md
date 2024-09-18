@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0268-missing-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
