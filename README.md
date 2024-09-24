@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0268-missing-number) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
