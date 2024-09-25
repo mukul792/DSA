@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
