@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0283-move-zeroes) |
 ## Math
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
