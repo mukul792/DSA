@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0125-valid-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mukul792/SDE-SHEET-solutions-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
